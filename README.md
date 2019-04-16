@@ -1,4 +1,4 @@
-# arpSCAN
+# scanARP
 Checks to determine if a MAC address shows up on the wrong VLAN.  This is useless to 99% of people, but incase you wanted to see how we do it, here it is.
 
 Why do I use this script?  
