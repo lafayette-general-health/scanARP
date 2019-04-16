@@ -13,6 +13,7 @@ ESPECIALLY SINCE YOU REQUIRE DHCP, THEN KEY IN ON INFORMATION THAT CONSTANTLY CH
 STUPID! YOU'LL END UP EXACTLY WHERE WE ARE NOW AND WHY I HAD TO WRITE THIS SCRIPT
 
 ![alt-text](https://memegenerator.net/img/instances/58461592/you-big-dummy.jpg)
+
 /end rant
 *************************
 
