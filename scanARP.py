@@ -42,6 +42,7 @@ def scanARP():
 	while True:
       #poll number of items in ARP table that are offending MACs
 			count = subprocess.Popen(CMD, shell=True, stdout=subprocess.PIPE)
+			cout = int(count.communicate()[0]) 
       #poll ARP table of specific interface for devices matching particular OUI and print results
 			table =  subprocess.Popen(CMD3, shell=True, stdout=subprocess.PIPE)
 			tout = (table.communicate()[0])
